@@ -1,1 +1,1 @@
-document.write("Running on Kubernet");
+console.log("Running on Kubernet");
